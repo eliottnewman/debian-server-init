@@ -1,0 +1,3 @@
+#Only key-based login
+PasswordAuthentication no
+PermitRootlogin no
